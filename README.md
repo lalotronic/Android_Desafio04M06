@@ -19,6 +19,7 @@
 #### Algunos leves cambios ####
 -Se modificaron las funciones de conversiones de temperatura para que se mostraran con solo 2 
  decimales(con redondeo)
+ 
 -Se agregaron mas codigos de estado http de manejo de errores: 400, 403 en WeatherRepositoryImp y 
  en Constants.
 # Android_Desafio04M06
